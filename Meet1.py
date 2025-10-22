@@ -1,7 +1,6 @@
 # class -> Motor
 # object -> surat2, kondisi_mesin, merk, model, harga, cc, warna
-# nama_Nim
-# Nama_OOP
+# KeziaArdiaSasaki_24241169
 
 class kendaraan :
     def __init__(self, merk, model, warna, cc, kondisi_mesin, surat2, harga):
