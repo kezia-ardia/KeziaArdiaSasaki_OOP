@@ -1,4 +1,4 @@
-# class -> Motor
+# class -> mobil
 # object -> surat2, kondisi_mesin, merk, model, harga, cc, warna
 # KeziaArdiaSasaki_24241169
 
